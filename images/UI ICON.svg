@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="149.114" height="160.755" viewBox="0 0 149.114 160.755">
+  <g id="UI_ICON" data-name="UI ICON" transform="translate(-357.886 -2078)">
+    <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(424 2078)" fill="#fff" stroke="#707070" stroke-width="2">
+      <ellipse cx="8.5" cy="9" rx="8.5" ry="9" stroke="none"/>
+      <ellipse cx="8.5" cy="9" rx="7.5" ry="8" fill="none"/>
+    </g>
+    <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(490 2182)" fill="#fff" stroke="#707070" stroke-width="2">
+      <ellipse cx="8.5" cy="9" rx="8.5" ry="9" stroke="none"/>
+      <ellipse cx="8.5" cy="9" rx="7.5" ry="8" fill="none"/>
+    </g>
+    <line id="Line_1" data-name="Line 1" x2="60" y2="90" transform="translate(435.5 2093.5)" fill="none" stroke="#8a8282" stroke-width="4"/>
+    <path id="UI_ICON-2" data-name="UI ICON" d="M-458.042,3808.416l9.645,57.395,25.284-90.3-105.334,20.415Z" transform="translate(887 -1628)" fill="none" stroke="#6708e6" stroke-width="7"/>
+  </g>
+</svg>
